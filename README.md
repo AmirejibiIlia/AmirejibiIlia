@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ilia 👋
 
-<!--
-**AmirejibiIlia/AmirejibiIlia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist / Machine Learning Engineer with strong experience in NLP, Retrieval-Augmented Generation (RAG), and applied machine learning in financial and business domains.
 
-Here are some ideas to get you started:
+I focus on building systems that turn messy data into reliable, decision-ready solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python, Pandas, NumPy, scikit-learn, XGBoost  
+SQL (Dremio, PostgreSQL), Power BI  
+LLMs, RAG, Vector Databases (FAISS / Chroma)  
+FastAPI, Git, Docker
+
+## Featured Projects
+- 🔹 Anomaly Detection in the Real Estate Sector of Georgia  
+- 🔹 Amadeo – Financial RAG Assistant  
+
+## What I Enjoy Working On
+- NLP & Information Extraction  
+- AI Agents & LLM-powered systems  
+- Financial analytics & ML models  
+- Text-to-SQL and data automation
+
+## Contact
+LinkedIn: [https://www.linkedin.com/in/your-link  ](https://www.linkedin.com/in/ilia-amirejibi-a2b05b23a/)
+Email: Ilia.amirejibi.07@gmail.com
