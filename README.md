@@ -42,5 +42,5 @@ Strong emphasis on system architecture, performance, cost, and stakeholder value
 
 
 ## Contact
-LinkedIn: [https://www.linkedin.com/in/your-link  ](https://www.linkedin.com/in/ilia-amirejibi-a2b05b23a/)
+LinkedIn: https://www.linkedin.com/in/ilia-amirejibi-a2b05b23a/
 Email: Ilia.amirejibi.07@gmail.com
